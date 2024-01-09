@@ -1,4 +1,5 @@
 import Container from "./ui/container"
+import { Routes, Route } from "react-router-dom"
 
 const header = () => {
     return (
@@ -7,7 +8,7 @@ const header = () => {
                 <div className="relative px-4 sm:px-6 lg:px-8 flex h-16 items-center
                 justify-between w-full">
                     <div className="flex items-center">
-                        Nigger
+                        LOGO
                     </div>
                 </div>
             </Container>
