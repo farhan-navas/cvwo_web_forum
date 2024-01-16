@@ -13,7 +13,7 @@ function App() {
       <div>
         <Header/>
       </div>
-      <div>
+      <div className='flex items-center card'>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
